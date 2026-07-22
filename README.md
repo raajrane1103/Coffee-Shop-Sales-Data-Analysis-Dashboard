@@ -258,6 +258,8 @@ Some insights that can be extracted from the dashboard include:
 
 
 
+\- `Coffee-Shop-Sales(Raw Data).xlxs` - Raw Dataset For This Project
+
 \- `Coffee-Shop-Sales-Data-Analytics-Dashboard.xlsx` — Interactive Excel dashboard
 
 \- `Dashboard.png` — Dashboard preview
