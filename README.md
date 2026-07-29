@@ -303,16 +303,17 @@ This project demonstrates practical skills in:
 \---
 
 
-
 \## 👤 Author
-
-
 
 \*\*Raaj Rane\*\*
 
-
-
 Aspiring Data Analyst | Excel | SQL | Power BI 
+
+
+\---
+# 📄 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 
 
